@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/studio_5/static/css/main.e42877ca.css",
-    "main.js": "/studio_5/static/js/main.a80d364c.js",
-    "static/js/496.f22c3aba.chunk.js": "/studio_5/static/js/496.f22c3aba.chunk.js",
-    "static/media/croissant.png": "/studio_5/static/media/croissant.29b8111570ac4a0920eb.png",
-    "static/media/cupcake.png": "/studio_5/static/media/cupcake.dee9e7ceba631b0568b2.png",
-    "static/media/cookies.png": "/studio_5/static/media/cookies.18820570a49c3d25f0aa.png",
-    "static/media/pizza.png": "/studio_5/static/media/pizza.bb809af3514a7bf10bca.png",
-    "static/media/cake.png": "/studio_5/static/media/cake.942e2b8ae90ce4faa463.png",
-    "static/media/strudel.png": "/studio_5/static/media/strudel.148643b0c0ee49469314.png",
-    "static/media/bread.png": "/studio_5/static/media/bread.720c4ef94f4acafd014b.png",
-    "static/media/pie.png": "/studio_5/static/media/pie.141388bf4c4dc37a7a45.png",
-    "static/media/logo.svg": "/studio_5/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/studio_5/index.html",
-    "main.e42877ca.css.map": "/studio_5/static/css/main.e42877ca.css.map",
-    "main.a80d364c.js.map": "/studio_5/static/js/main.a80d364c.js.map",
-    "496.f22c3aba.chunk.js.map": "/studio_5/static/js/496.f22c3aba.chunk.js.map"
+    "main.css": "/react_studio/static/css/main.e42877ca.css",
+    "main.js": "/react_studio/static/js/main.0177ee9c.js",
+    "static/js/496.f22c3aba.chunk.js": "/react_studio/static/js/496.f22c3aba.chunk.js",
+    "static/media/croissant.png": "/react_studio/static/media/croissant.29b8111570ac4a0920eb.png",
+    "static/media/cupcake.png": "/react_studio/static/media/cupcake.dee9e7ceba631b0568b2.png",
+    "static/media/cookies.png": "/react_studio/static/media/cookies.18820570a49c3d25f0aa.png",
+    "static/media/pizza.png": "/react_studio/static/media/pizza.bb809af3514a7bf10bca.png",
+    "static/media/cake.png": "/react_studio/static/media/cake.942e2b8ae90ce4faa463.png",
+    "static/media/strudel.png": "/react_studio/static/media/strudel.148643b0c0ee49469314.png",
+    "static/media/bread.png": "/react_studio/static/media/bread.720c4ef94f4acafd014b.png",
+    "static/media/pie.png": "/react_studio/static/media/pie.141388bf4c4dc37a7a45.png",
+    "static/media/logo.svg": "/react_studio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_studio/index.html",
+    "main.e42877ca.css.map": "/react_studio/static/css/main.e42877ca.css.map",
+    "main.0177ee9c.js.map": "/react_studio/static/js/main.0177ee9c.js.map",
+    "496.f22c3aba.chunk.js.map": "/react_studio/static/js/496.f22c3aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e42877ca.css",
-    "static/js/main.a80d364c.js"
+    "static/js/main.0177ee9c.js"
   ]
 }
